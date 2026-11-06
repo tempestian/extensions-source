@@ -6,13 +6,13 @@ plugins {
 
 keiyoushi {
     name = "Webtoon Hatti"
-    versionCode = 7
+    versionCode = 8
     contentWarning = ContentWarning.SAFE
     libVersion = "1.6"
     theme = "madara"
 
     source {
         lang = "tr"
-        baseUrl = "https://webtoonhatti.club"
+        baseUrl = "https://webtoonhatti.com"
     }
 }
